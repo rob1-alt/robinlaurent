@@ -24,9 +24,11 @@ body {
   transform: translate(-50%, -50%);
 }
 
+
+
 .navMenu a {
   padding: 20px;
-  color: #f6f4e6;
+  color: white;
   text-decoration: none;
   font-size: 1.2em;
   text-transform: uppercase;
@@ -34,6 +36,23 @@ body {
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
 }
+#one{
+  color: #fddb3a;
+}
+#two{
+  color: #fddb3a;
+}
+#three{
+  color: #fddb3a;
+}
+#four{
+  color: #fddb3a;
+}
+#five{
+  color: #fddb3a;
+}
+
+
 
 .navMenu a:hover {
   color: #fddb3a;
